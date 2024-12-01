@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+python-dotenv
+fastapi
+uvicorn
+pydantic
+requests
+langchain-community
+pdfminer.six
+onnxruntime
+langchain-chroma
